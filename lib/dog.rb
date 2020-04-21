@@ -1,4 +1,4 @@
-class Dog
+lclass Dog
 
   attr_accessor :name, :breed
 
